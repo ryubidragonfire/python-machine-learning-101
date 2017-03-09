@@ -1,5 +1,10 @@
 # python-machine-learning-101
 
+** This is work in progress **
+
+## Aim
+- consolidate as much as possible commonly used functions in the context of machine learning for quick reference.
+
 ### Ref:
 - [Python Machine Learning, Sebastian Rashka](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
 - [sklearn](scikit-learn.org)
